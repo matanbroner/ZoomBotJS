@@ -1,0 +1,30 @@
+#formWrapper{
+    margin-top: 30px;
+}
+
+.formTitle{
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+#meetingInput{
+    width: 95%;
+}
+
+#formInputsRow{
+    margin-top: 15px;
+}
+
+.row:last-child{
+    border: 0 !important;
+}
+
+.deleteCell{
+    border: 0 !important;
+    text-align: right;
+}
+.deleteButton:hover{
+    color: rgb(203, 68, 75);
+    transition: 0.1s ease all;
+    cursor: pointer;
+}

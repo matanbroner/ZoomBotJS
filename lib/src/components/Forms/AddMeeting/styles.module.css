@@ -1,0 +1,15 @@
+#wrapper{
+    margin: 15px auto;
+    padding: 15px 20px;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+#submtButtonWrapper{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+

@@ -1,0 +1,13 @@
+#wrapper{
+    text-align: center;
+    color: rgb(172, 171, 172);
+    padding: 20px;
+}
+
+#text{
+    font-size: 25px;
+}
+
+#icon{
+    font-size: 40px;
+}
