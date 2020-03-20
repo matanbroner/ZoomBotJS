@@ -28,3 +28,9 @@
     transition: 0.1s ease all;
     cursor: pointer;
 }
+
+#submitButtonWrapper{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
