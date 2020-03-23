@@ -1,6 +1,3 @@
-{"name":"Test3","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]},{"days":[0],"meetingId":"1","joinTime":19800,"leaveTime":20400,"id":"2d0824fa-637b-4339-91bb-adf7c6fbf6ac"}],"_id":"692vMgy3KydHrjTf"}
-{"name":"Test2","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"RRbSuPYQOFDMNEom"}
-{"name":"Test","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"YbUDyUqTjMYJOvAu"}
-{"name":"Test4","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"cik7ae7bUPMsrjlW"}
-{"name":"Test4","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"XsGELESo9pOlUlBW"}
-{"name":"Test5","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"KPJC9tm4QwX4HMUl"}
+{"name":"Test2","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"6FpyM96np9jBNgLm"}
+{"name":"Test3","meetings":[{"id":123,"meetingId":12345,"joinTime":18000,"leaveTime":18600,"days":[0,1,2,3,4,5,6]}],"_id":"UzCqOMpaze2gPsZN"}
+{"name":"Test","meetings":[{"days":[0,2,1,3,5,4,6],"meetingId":"12345","joinTime":85500,"leaveTime":85800,"id":"08ad275b-c1e4-497a-9dff-a6f9258cf89f"}],"_id":"dXuBUoZ0Yl8zx9ca"}

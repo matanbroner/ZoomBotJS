@@ -3,6 +3,13 @@ const {
 } = require("child_process");
 const find = require("find-process");
 const schedule = require('node-schedule');
+const time = require("time-number");
+
+function parseTime(t){
+    return time.timeFromInt(t, { format: 12, leadingZero: false }).split(":").map((x) => parseInt(x));
+}
+
+console.log(parseTime(18600))
 
 
 const main = async () => {
@@ -30,6 +37,8 @@ const main = async () => {
                     process.kill(zoom.pid);
                 });
     });
+
+    console.log(j)
 }
 
 main()
