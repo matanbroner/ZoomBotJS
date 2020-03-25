@@ -1,0 +1,22 @@
+
+
+  .circleBackground,
+  .circleProgress {
+    fill: none;
+  }
+  
+  .circleBackground {
+    stroke: #ddd;
+  }
+  
+  .circleProgress {
+    stroke: rgb(86, 142, 240);
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  
+  .circleText {
+    font-size: 3em;
+    font-weight: bold;
+    fill: rgb(86, 142, 240);
+  }

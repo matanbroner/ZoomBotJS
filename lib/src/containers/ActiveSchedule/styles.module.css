@@ -1,0 +1,52 @@
+
+#prompt{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+    color: rgb(86, 142, 240);
+}
+
+#countdownWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+#content{
+    margin-top: 50px;
+}
+
+#buttonRow{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.eventButton{
+    width: 60px;
+    height: 40px;
+    border: 1px solid rgb(207, 212, 218);
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    line-height: 40px;
+    color: white;
+    font-size: 20px;
+    margin: auto 20px;
+}
+
+#skip{
+    background: rgb(86, 142, 240);
+}
+
+#skip:hover{
+    background: rgb(0, 177, 231);
+}
+
+#end{
+    background: rgb(203, 68, 75);
+}
+
+#end:hover{
+    background: rgb(228, 87, 65);
+}
